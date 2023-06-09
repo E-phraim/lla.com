@@ -474,7 +474,7 @@ header .container .col-md-11 p {
   text-align: right;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
   header .navbar-brand {
     padding-left: 2rem;
   }
